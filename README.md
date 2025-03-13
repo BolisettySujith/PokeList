@@ -56,6 +56,10 @@ AF.request(pokemon.url)
 ```
 This handles JSON responses from the Pokémon API and maps them to the `PokemonDetails` model.
 
+## Demo
+|Home|Details Page| Details Page|
+|---|---|---|
+|![](./assets/1.png)|![](./assets/2.png)|![](./assets/3.png)|
 
 ## Conclusion
 This project follows the **VIPER architecture**, separating responsibilities into View, Interactor, Presenter, Entity, and Router. The usage of `Alamofire` helps streamline API calls, and SwiftUI provides a reactive UI. The modular nature of VIPER makes it easier to test, scale, and maintain this application.
