@@ -1,9 +1,3 @@
-//
-//  PokemonListInteractor.swift
-//  APIHandlingAlmofire
-//
-//  Created by Havells on 06/02/25.
-//
 
 import Foundation
 import Alamofire
